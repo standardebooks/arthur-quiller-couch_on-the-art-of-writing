@@ -36,7 +36,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-p span.i1{
+p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
@@ -45,7 +45,7 @@ blockquote[xml|lang]{
 	font-style: italic;
 }
 
-blockquote[xml|lang] i{
+blockquote[xml|lang] em{
 	font-style: normal;
 }
 
@@ -91,11 +91,6 @@ table[epub|type~="z3998:drama"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
-
 #chapter-5 > div{
 	display: flex;
 	margin: 1em 0; /* match blockquote margin */
@@ -103,6 +98,25 @@ section[epub|type~="z3998:scene"] > p{
 
 #chapter-5 > div div{
 	width: 50%;
+}
+
+#chapter-8 table{
+	border-spacing: .5em;
+	margin: 1em;
+}
+
+#chapter-8 td{
+	padding: .5em;
+}
+
+#chapter-8 thead td{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+#chapter-8 td:nth-of-type(2){
+	border-right: 1px solid;
+	white-space: nowrap;
 }
 
 section[epub|type~="chapter"] ol blockquote{
