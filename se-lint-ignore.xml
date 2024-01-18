@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>y-029</code>
+			<reason>Emphasis is on a syllable.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-9.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title is correct.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-11.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title is correct.</reason>
+		</ignore>
+		<ignore>
+			<code>y-016</code>
+			<reason>Consecutive periods indicate missing letters.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-041</code>
+			<reason>Match is a diagram.</reason>
+		</ignore>
+		<ignore>
+			<code>y-029</code>
+			<reason>Emphasis is on a syllable.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
