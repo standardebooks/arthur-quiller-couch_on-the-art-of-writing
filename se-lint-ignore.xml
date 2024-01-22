@@ -6,17 +6,7 @@
 			<reason>Emphasis is on a syllable.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-9.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Title is correct.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-11.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Title is correct.</reason>
-		</ignore>
 		<ignore>
 			<code>y-016</code>
 			<reason>Consecutive periods indicate missing letters.</reason>
