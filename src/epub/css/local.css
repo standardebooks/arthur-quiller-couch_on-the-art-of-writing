@@ -7,9 +7,13 @@ footer{
 	text-align: right;
 }
 
-abbr[epub|type~="se:era"],
+[epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
 }
 
 [epub|type~="z3998:verse"] p{
@@ -138,6 +142,7 @@ section[epub|type~="chapter"] ol blockquote{
 
 [epub|type~="se:letter.dateline"]{
 	font-variant: small-caps;
+	margin-bottom: 1em;
 	text-align: right;
 }
 
