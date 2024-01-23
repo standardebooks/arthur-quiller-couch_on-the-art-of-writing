@@ -92,12 +92,25 @@ table[epub|type~="z3998:drama"]{
 }
 
 #chapter-5 > div{
-	display: flex;
 	margin: 1em 0; /* match blockquote margin */
+	text-align: center;
 }
 
 #chapter-5 > div div{
-	width: 50%;
+	display: inline-block;
+	text-align: initial;
+	vertical-align: top;
+	width: 45%;
+}
+
+@supports(display: flex){
+	#chapter-5 > div{
+		display: flex;
+	}
+
+	#chapter-5 > div div{
+		width: 50%;
+	}
 }
 
 #chapter-8 table{
