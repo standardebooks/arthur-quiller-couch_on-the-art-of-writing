@@ -11,6 +11,10 @@
 			<code>y-016</code>
 			<reason>Consecutive periods indicate missing letters.</reason>
 		</ignore>
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is not a typo.</reason>
+		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
 		<ignore>
