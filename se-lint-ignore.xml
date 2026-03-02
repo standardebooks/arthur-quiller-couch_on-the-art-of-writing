@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-7.xhtml">
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Emphasis is on a syllable.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-11.xhtml">
-		<ignore>
-			<code>y-016</code>
+		<ignore code="y-016">
 			<reason>Consecutive periods indicate missing letters.</reason>
 		</ignore>
-		<ignore>
-			<code>y-034</code>
+		<ignore code="y-034">
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-041</code>
+		<ignore code="t-041">
 			<reason>Match is a diagram.</reason>
 		</ignore>
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Emphasis is on a syllable.</reason>
 		</ignore>
 	</file>
