@@ -126,8 +126,9 @@ table[epub|type~="z3998:drama"]{
 	padding: .5em;
 }
 
-#chapter-8 thead td{
+#chapter-8 thead th{
 	font-variant: small-caps;
+	font-weight: normal;
 	text-align: center;
 }
 
