@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Nonfiction</meta>
-		<dc:abstract>Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.</dc:abstract>
+		<meta property="schema:abstract">Quiller-Couch surveys the history of English prose while dispensing advice for writing tastefully.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-quiller-couch"&gt;Arthur Quiller-Couch&lt;/a&gt; had a distinguished career as a writer and literary critic before being appointed the King Edward VII Professor of English Literature at Cambridge. Shortly afterwards, he delivered this series of lectures on the history, and tasteful composition of, English prose.&lt;/p&gt;
 			&lt;p&gt;His core advice is that the effective writer writes with accuracy, perspicuity, persuasion, and appropriateness. He implores writers to avoid jargon, and along the way he drops that famous line that modern writers love to quote: “Murder your darlings.”&lt;/p&gt;
