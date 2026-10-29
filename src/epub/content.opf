@@ -60,7 +60,7 @@
 		<link href="https://github.com/standardebooks/arthur-quiller-couch_on-the-art-of-writing" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Arthur Quiller-Couch</dc:creator>
 		<meta property="file-as" refines="#author">Quiller-Couch, Arthur</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Arthur Thomas Quiller-Couch</meta>
+		<meta property="schema:alternateName" refines="#author">Arthur Thomas Quiller-Couch</meta>
 		<link href="https://en.wikipedia.org/wiki/Arthur_Quiller-Couch" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80076613.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
@@ -75,7 +75,7 @@
 		<meta property="file-as" refines="#transcriber-1">Tenison, James</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="sponsor">Ben and Anna Evans</dc:contributor>
-		<meta property="file-as" refines="#sponsor">Ben and Anna Evans</meta>
+		<meta property="file-as" refines="#sponsor">Evans, Ben and Anna</meta>
 		<link href="https://www.kittylyst.com/" refines="#sponsor" rel="schema:url"/>
 		<meta property="role" refines="#sponsor" scheme="marc:relators">spn</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
